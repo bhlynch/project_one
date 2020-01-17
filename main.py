@@ -4,7 +4,6 @@ print("Hello, I'm main.py")
 for i in range(20):
     print(i)
 
+print (" I hope this works")
 
-print("Hello World , Dom is a good instructor")
-
-print("it wont snow at all on friday")
+Print("Snow is comming!!")
