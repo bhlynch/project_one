@@ -6,3 +6,5 @@ for i in range(20):
 
 
 print("Hello World , Dom is a good instructor")
+
+print("it wont snow at all on friday")
