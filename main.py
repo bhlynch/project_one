@@ -1,4 +1,7 @@
 #This is main.py
 print("Hello, I'm main.py")
 
-print('example code')
+for i in range(20):
+    print(i)
+print("This should be ok now")    
+
